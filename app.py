@@ -1,4 +1,4 @@
-!pip install -r requirement.txt
+pip install -r requirement.txt
 #imported all required libraries
 import streamlit as st
 import torch
