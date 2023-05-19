@@ -3,3 +3,4 @@ streamlit==1.22.0
 transformers==4.29.2
 requests
 pillow
+altair==4.0
