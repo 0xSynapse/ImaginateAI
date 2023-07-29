@@ -1,4 +1,4 @@
-# Image_Captioner
+# ImaginateAI
 ViT and GPT2 are used to generate Image Captions for the uploaded image\
 Hosted on HuggingFace-Spaces🤗🔽
 
